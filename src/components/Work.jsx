@@ -60,7 +60,7 @@ export default function Work() {
                 <span className="browser__url">https://jjr-fish-market-vercel.app</span>
               </div>
               <div className="browser__screen">
-                <SafeImage src="/images/jjr-screenshot.png" file="jjr-screenshot.png" alt="JJR Fish Centre website — Fresh Catch Daily hero with WhatsApp ordering" />
+                <SafeImage src="/jjr-screenshot.png" file="jjr-screenshot.png" alt="JJR Fish Centre website — Fresh Catch Daily hero with WhatsApp ordering" />
               </div>
             </div>
 
