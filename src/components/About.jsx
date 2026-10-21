@@ -33,7 +33,7 @@ export default function About() {
           <span className="portrait__shadow" aria-hidden="true" />
           <span className="portrait__frame" aria-hidden="true" />
           <div className="portrait__img">
-            <SafeImage src="/images/akthar-photo.jpg" file="akthar-photo.jpg" alt="Portrait of Akthar" />
+            <SafeImage src="/akthar-photo.jpg" file="akthar-photo.jpg" alt="Portrait of Akthar" />
           </div>
         </div>
       </div>
