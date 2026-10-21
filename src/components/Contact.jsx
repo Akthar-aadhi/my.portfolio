@@ -118,7 +118,7 @@ export default function Contact() {
             {sent ? (
               <div className="thanks" role="status" aria-live="polite">
                 <div className="thanks__img">
-                  <SafeImage src="/images/thanks-illustration.png" file="thanks-illustration.png" alt="" />
+                  <SafeImage src="/thanks-illustration.png" file="thanks-illustration.png" alt="" />
                 </div>
                 <p>
                   Thanks for visiting me!
