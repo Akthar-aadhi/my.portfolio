@@ -20,10 +20,10 @@ export const NAV = [
 export const HERO_SERVICES = ['Websites', 'Business Posters', 'Thumbnails', 'Logos', 'Portfolio', 'Resume']
 
 export const JUICY_SCREENS = [
-  { src: '/images/juicy-1-splash.jpg', label: '01. Brand Splash', file: 'juicy-1-splash.jpg' },
-  { src: '/images/juicy-2-onboarding.jpg', label: '02. Onboarding', file: 'juicy-2-onboarding.jpg' },
-  { src: '/images/juicy-3-login.jpg', label: '03. Authentication', file: 'juicy-3-login.jpg' },
-  { src: '/images/juicy-4-location.jpg', label: '04. Geolocation', file: 'juicy-4-location.jpg' },
+  { src: '/juicy-1-splash.jpg', label: '01. Brand Splash', file: 'juicy-1-splash.jpg' },
+  { src: '/juicy-2-onboarding.jpg', label: '02. Onboarding', file: 'juicy-2-onboarding.jpg' },
+  { src: '/juicy-3-login.jpg', label: '03. Authentication', file: 'juicy-3-login.jpg' },
+  { src: '/juicy-4-location.jpg', label: '04. Geolocation', file: 'juicy-4-location.jpg' },
 ]
 
 export const SERVICES = [
